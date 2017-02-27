@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Warp_Mat type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    2.44649220e+000 -9.47270870e-001 -5.89831810e+001 3.00846577e-001
+    4.07550144e+000 -5.39890808e+002 -3.77300203e-005 -1.60396204e-003
+    1.</data></Warp_Mat>
+</opencv_storage>
