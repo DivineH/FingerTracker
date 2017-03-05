@@ -33,4 +33,4 @@
 ###实现的动作
 程序通过手指来模拟一些鼠标、键盘操作，以实现的操作有：
 左键单双击，右键单击，上下左右，缩放等，具体描述见下图。
-![动作描述](./FingerTracker/pictures/)
+![动作描述](./FingerTracker/pictures/pic6.jpg)
