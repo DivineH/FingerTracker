@@ -15,20 +15,14 @@
 
 ### 实物图
 ![实物图](./FingerTracker/pictures/pic4.jpg)
-实物图
 [http://www.robopeak.com/](http://www.robopeak.com/)
 
 ### 程序运行截图
 ![运行截图1](./FingerTracker/pictures/pic5.jpg)
-运行截图
 ![运行截图2](./FingerTracker/pictures/SrcFingerTrace1.png)
-运行截图
 ![运行截图3](./FingerTracker/pictures/DstFingerTrace1.png)
-运行截图
 ![运行截图4](./FingerTracker/pictures/SrcFingerTrace2.png)
-运行截图
 ![运行截图5](./FingerTracker/pictures/DstFingerTrace2.png)
-运行截图
 
 ### 实现的动作
 程序通过手指来模拟一些鼠标、键盘操作，以实现的操作有：
